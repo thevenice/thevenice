@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Highly experienced full stack Software Engineer with 5 years of experience in developing and maintaining web applications. Skilled in utilizing a variety of technologies and frameworks such as JavaScript, Python, and React. Strong ability to work collaboratively in a team environment, as well as the ability to independently design, develop, and implement software solutions. My professional experience includes managing back-end responsibilities for major fin-tech projects, building MVP features, and solving complex problems.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*   🌍  I'm based in Ahmedabad, Gujarat
-*   🖥️  See my portfolio at [The Venice Technologies](http://www.thevenice.in)
-*   ✉️  You can contact me at [pp886655@gmail.com](mailto:pp886655@gmail.com)
-*   🚀  I'm currently working on [Dexcheck.io](http://dexcheck.io)
-*   🧠  I'm learning Advance System Design and Product Managment
-*   🤝  I'm open to collaborating on Fintech Startups & more.
-*   ⚡  I'm Batman 🦇### Skills 
+* 🌍  I'm based in Ahmedabad, Gujarat
+* 🖥️  See my portfolio at [The Venice Technologies](http://www.thevenice.in)
+* ✉️  You can contact me at [pp886655@gmail.com](mailto:pp886655@gmail.com)
+* 🚀  I'm currently working on [Dexcheck.io](http://dexcheck.io)
+* 🧠  I'm learning Advance System Design and Product Managment
+* 🤝  I'm open to collaborating on Fintech Startups & more.
+* ⚡  I'm Batman 🦇
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -51,24 +55,18 @@ Highly experienced full stack Software Engineer with 5 years of experience in de
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.polywork.com/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/thevenicelive" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/thevenice"><img src="https://github-readme-stats.vercel.app/api?username=thevenice&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="thevenice's GitHub stats" /></a><a
-                      href="http://www.github.com/thevenice"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=thevenice&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/thevenice"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thevenice&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@thevenice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thevenicelive" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thevenice"><img src="https://github-readme-stats.vercel.app/api?username=thevenice&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="thevenice's GitHub stats" /></a>
+
+<a href="http://www.github.com/thevenice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thevenice&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/thevenice"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thevenice&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
